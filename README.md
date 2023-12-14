@@ -1,4 +1,6 @@
 # Climate Change Belief Classification Model
+
+
 ## Overview
 This project involves the development of a machine learning model to classify whether or not a person believes in climate change based on their novel tweet data. The model aims to contribute to market research efforts by providing insights into public sentiment regarding climate change. Companies in the environmentally friendly and sustainable products/services sector can leverage this information to understand consumer perceptions and tailor their marketing strategies accordingly.
 
